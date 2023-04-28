@@ -5,7 +5,7 @@ Each pass begins with a distribution phase, in which series of 3 tapes are distr
 After the distribution phase, the merging phase follows, in which corresponding pairs of series are merged. As a result, the total number of series after each pass is reduced by approximately half, because it is possible to automatically merge series in which the records are already sorted.
 Subsequent passes are repeated until all records are in the correct order on tape 3.
 
-Random Record Type.
+Record Type.
 
 Complex Numbers.
 Ordered according to the rule: complex number z1 is greater than complex number z2 if the modulus of z1 is greater than the modulus of z2.
